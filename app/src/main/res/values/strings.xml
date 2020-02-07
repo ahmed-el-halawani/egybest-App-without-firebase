@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">how to speed the recycler View</string>
+
+
+    <string name="home">ايجي بست</string>
+    <string name="popular">الأكثر مشاهدة</string>
+    <string name="movies">الأفلام</string>
+    <string name="series">المسلسلات</string>
+    <string name="myLib">مكتبتي</string>
+
+
+    <string name="popular_movie">الأفلام الأكثر مشاهدة</string>
+    <string name="new_movie">أفلام جديدة</string>
+    <string name="new_movie_bluRay">أفلام جديدة BluRay</string>
+    <string name="arabic_movie">أفلام عربية</string>
+    <string name="new_Series">مسلسلات جديدة</string>
+    <string name="latest_added">أحدث الاضافات</string>
+    <string name="all_movies">كل الافلام</string>
+    <string name="more">المزيد</string>
+</resources>

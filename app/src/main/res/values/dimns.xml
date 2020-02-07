@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="primaryRadius">4dp</dimen>
+    <dimen name="menuRadius">5dp</dimen>
+    <dimen name="primaryPadding">10dp</dimen>
+    <dimen name="sectionTitleSize">14.423sp</dimen>
+    <dimen name="movieTitleSize">16.026sp</dimen>
+
+</resources>

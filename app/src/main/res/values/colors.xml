@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f9f9f9</color>
+    <color name="colorPrimaryDark">#013d7b</color>
+    <color name="colorAccent">#06c</color>
+    <color name="colorAccentHover">#366191</color>
+    <color name="background">#ecf0f0</color>
+    <color name="menuItemsHover">#EEEEEE</color>
+    <color name="menuItemText">#ff1000</color>
+    <color name="hintColor">#696969</color>
+    <color name="editTextColor">#444</color>
+    <color name="black">#222</color>
+    <color name="white">#fff</color>
+    <color name="gray">#eee</color>
+
+
+</resources>
